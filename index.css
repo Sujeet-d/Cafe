@@ -437,6 +437,11 @@ h3:hover {
 }
 
 @media (min-width:300px) and (max-width:545px) {
+
+    body {
+        border: 5px solid #955c40;
+    }
+    
     .gal-flex1 {
         width: 40%;
         margin-right: 2px;
